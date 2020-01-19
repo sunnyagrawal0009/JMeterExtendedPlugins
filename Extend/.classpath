@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="/apache-jmeter-5.1.1_src"/>
+	<classpathentry kind="lib" path="C:/Users/Sunny/.m2/repository/org/ops4j/pax/url/pax-url-aether/2.4.5/pax-url-aether-2.4.5.jar" sourcepath="C:/Users/Sunny/.m2/repository/org/ops4j/pax/url/pax-url-aether/2.4.5/pax-url-aether-2.4.5-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.groupId" value="org.ops4j.pax.url"/>
+			<attribute name="maven.artifactId" value="pax-url-aether"/>
+			<attribute name="maven.version" value="2.4.5"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Sunny/.m2/repository/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar" sourcepath="C:/Users/Sunny/.m2/repository/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.groupId" value="org.slf4j"/>
+			<attribute name="maven.artifactId" value="slf4j-api"/>
+			<attribute name="maven.version" value="1.7.26"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Sunny/.m2/repository/biz/aQute/bnd/bndlib/2.4.0/bndlib-2.4.0.jar" sourcepath="C:/Users/Sunny/.m2/repository/biz/aQute/bnd/bndlib/2.4.0/bndlib-2.4.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.groupId" value="biz.aQute.bnd"/>
+			<attribute name="maven.artifactId" value="bndlib"/>
+			<attribute name="maven.version" value="2.4.0"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Sunny/.m2/repository/org/apache/felix/org.apache.felix.framework/6.0.3/org.apache.felix.framework-6.0.3.jar" sourcepath="C:/Users/Sunny/.m2/repository/org/apache/felix/org.apache.felix.framework/6.0.3/org.apache.felix.framework-6.0.3-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.felix"/>
+			<attribute name="maven.artifactId" value="org.apache.felix.framework"/>
+			<attribute name="maven.version" value="6.0.3"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
